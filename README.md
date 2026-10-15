@@ -1,16 +1,18 @@
-## Hi there 👋
+### hey, I'm lx
+_a name I got from a nice Starbucks barista in NYC._
 
-<!--
-**lxsaah/lxsaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an embedded software engineer and maintainer of **[AimDB](https://github.com/aimdb-dev/aimdb)**.
 
-Here are some ideas to get you started:
+I keep watching cloud, edge and MCU teams lose weeks to the same problem. Nobody agrees on what the data looks like.
+There's a PDF, a wiki page, a schema registry somewhere and none of it matches what's actually running.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AimDB is my fix: **data contracts as executable code**, compiled into every node from the MCU to the cloud.
+
+If that problem sounds familiar, **[check out AimDB](https://github.com/aimdb-dev/aimdb)** and drop a ⭐ or open an issue and tell me how your team deals with it.
+
+---
+
+### Tools I build with
+
+[![Tech stack](https://skillicons.dev/icons?i=rust,c,cpp,py,ts,linux,arduino,raspberrypi,apple,docker,kubernetes)](https://skillicons.dev)
+
